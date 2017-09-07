@@ -7,9 +7,10 @@ I am asking anybody that knows [supermathematics](https://en.wikipedia.org/wiki/
 
 
 
-Part A - Babies know physics
+Part A - Babies know physics, and learn in reinforced manner
 ======
 Back in 2016, I [read somewhere that babies know some physics intuitively](https://www.washingtonpost.com/news/speaking-of-science/wp/2015/04/02/new-study-reveals-the-shockingly-complex-thought-processes-of-infants/?utm_term=.dd0b9545030b). 
+
 Also, it is empirically observable that babies use that intuition to develop abstractions of knowledge, [in a reinforcement learning like manner](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3490621/).
 
 
