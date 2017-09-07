@@ -55,10 +55,12 @@ This was due to [evidence of supersymmetry in cognitive science](https://arxiv.o
 5. Thereafter 1, 2, 3, 4 and [supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134), within the generalizable nature of [euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), reasonably effectuate ϕ(x,θ,https://i.imgur.com/ncrjUdkm.png)<SUP>T</SUP>w.
 
 
-#QUESTIONS
+#Extra considerations
 ======
-Does anybody here have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) or related field, to give any input on the above?
+I am working to determine how feasible the  [supermanifold hypothesis model](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_) is.
 
-If so is it feasible to pursue the model I present in [supermanifold hypothesis paper](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_)?
+I am working to design suitable experiments, and figuring out what type of pˆdata (training samples) are sufficiently applicable to the model.
 
-And if so,  apart from the ones discussed in the [paper](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_), what type of pˆdata (training samples) do you garner warrants reasonable experiments in the regime of the [model I presented](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_)?
+Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
+
+in the regime of the [model I presented](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_)?
