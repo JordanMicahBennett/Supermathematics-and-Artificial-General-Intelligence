@@ -52,7 +52,7 @@ This was due to [evidence of supersymmetry in cognitive science](https://arxiv.o
 1. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) entails ϕ(x;θ)<SUP>T</SUP>w, that denotes the input space x, and learnt representations θ.
 2. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) underlines that coordinates or latent spaces in the [manifold](https://en.wikipedia.org/wiki/Manifold) framework, are learnt features/representations, or directions that are sparse configurations of coordinates.
 3. [Supermathematics](https://en.wikipedia.org/wiki/Supermathematicsg) entails (x,t,https://i.imgur.com/ncrjUdkm.png), that denotes some x valued coordinate distribution, and by extension, directions that compact coordinates via θ,¯<sub>θ</sub>
-4.  As such, the aforesaid (x,θ,https://i.imgur.com/ncrjUdkm.png), is subject to coordinate transformation.
+4.  As such, the aforesaid (x,θ,![alt text](https://i.imgur.com/ncrjUdkm.png)), is subject to coordinate transformation.
 5. Thereafter 1, 2, 3, 4 and [supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134), within the generalizable nature of [euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), reasonably effectuate ϕ(x,θ,https://i.imgur.com/ncrjUdkm.png)<SUP>T</SUP>w.
 
 
