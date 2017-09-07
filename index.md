@@ -7,13 +7,15 @@ I am asking anybody that knows [supermathematics](https://en.wikipedia.org/wiki/
 
 
 
-#Part A - Babies know physics
+Part A - Babies know physics
+======
 Back in 2016, I [read somewhere that babies know some physics intuitively](https://www.washingtonpost.com/news/speaking-of-science/wp/2015/04/02/new-study-reveals-the-shockingly-complex-thought-processes-of-infants/?utm_term=.dd0b9545030b). 
 Also, it is empirically observable that babies use that intuition to develop abstractions of knowledge, [in a reinforcement learning like manner](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3490621/).
 
 
 
-#Part B - Algorithms for reinforcement learning and physics
+Part B - Algorithms for reinforcement learning and physics
+======
 Now, I knew beforehand of two types of major deep learning models, that:
 
 (1) used reinforcement learning. ([Deepmind Atari q](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf))
@@ -27,7 +29,8 @@ Now, I knew beforehand of two types of major deep learning models, that:
 (b) Instead, [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  excludes pooling, because [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  requires translation variance, in order for Q learning to apply on the changing positions of the objects in pixels.
 
 
-#Part C - I sought to create...
+Part C - I sought to create...
+======
 As a result I sought a model that could deliver both translation invariance and variance at the same time, and reasonably, **part of the solution** was models that disentangled factors of variation, i.e. [manifold learning frameworks](https://arxiv.org/abs/1611.03383).
 
 I didn't stop my scientific thinking at [manifold learning](http://scikit-learn.org/stable/modules/manifold.html) though.
@@ -36,7 +39,8 @@ Given that cognitive science may be used to constrain machine learning models ([
 
 
 
-#Part D - What I did to approach the problem...
+Part D - What I did to approach the problem...
+======
 As a result I created something called the [supermanifold hypothesis in deep learning](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_) (a component in another description called ['thought curvature'](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis)). 
 
 This was due to [evidence of supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134); I compacted machine learning related algebra for disentangling, in the regime of [supermanifolds](https://en.wikipedia.org/wiki/Supermanifold). This could be seen as an extension of [manifold learning in artificial intelligence](http://scikit-learn.org/stable/modules/manifold.html).
@@ -52,7 +56,7 @@ This was due to [evidence of supersymmetry in cognitive science](https://arxiv.o
 
 
 #QUESTIONS
-
+======
 Does anybody here have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) or related field, to give any input on the above?
 
 If so is it feasible to pursue the model I present in [supermanifold hypothesis paper](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_)?
