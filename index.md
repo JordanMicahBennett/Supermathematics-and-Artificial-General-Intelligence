@@ -1,5 +1,6 @@
 ![alt text](https://i.imgur.com/7NbZgH8.gif)
 
+<span style="text-decoration: overline">text</span>
 
 This thread concerns attempts to construct artificial general intelligence, which I often underline [may likely be mankind's last invention.](https://www.youtube.com/watch?v=9snY7lhJA4c)
 
