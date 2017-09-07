@@ -63,5 +63,3 @@ I am working to determine how feasible the  [supermanifold hypothesis model](htt
 I am working to design suitable experiments, and figuring out what type of pˆdata (training samples) are sufficiently applicable to the model.
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
-
-in the regime of the [model I presented](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_)?
