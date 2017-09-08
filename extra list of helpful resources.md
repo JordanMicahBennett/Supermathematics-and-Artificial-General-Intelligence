@@ -9,3 +9,5 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 4. [Microtubules: Montroll's kink and Morse vibrations](https://arxiv.org/abs/cond-mat/9606109) (Concerning QFT)
 
+5. [Fluctuation Dissipative Theorem and Models of Learning](https://pdfs.semanticscholar.org/d839/6486c3206fb8dce0ccd19a43e01ce8abd866.pdf)
+
