@@ -23,3 +23,5 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 11. [Quantum Reinforcement Learning](https://arxiv.org/abs/1612.05695) (Concerns the transverse Hamiltonian, in the regime of Deep Reinforcement Learning)
 
+12. [Elements of (super-)Hamiltonian Formalism](https://arxiv.org/abs/hep-th/0506170) (Concerning Hamiltonian formulation, in the regime of Superspace... Can such a superspace subsume quantum computation compatible lemma?)
+
