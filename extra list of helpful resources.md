@@ -13,4 +13,4 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 6. [Rethinking Neural Networks: Quantum Fields and Biological Data](https://books.google.com.jm/books?id=L7NQAwAAQBAJ&pg=PA173&lpg=PA173&dq=neural+network+quantum+field+treatments&source=bl&ots=FoXErEu35R&sig=7YKMR_TmscbMT-FQhEiZlwAZXq4&hl=en&sa=X&ved=0ahUKEwjRz-2mt5XWAhWHMyYKHcwGBZwQ6AEIPDAD#v=onepage&q&f=false) (Concering QFT, in the regime of Biophysics)
 
-7. [Quantum Aspects of Semantic Analysis and Symbolic Artificial Intelligence](Quantum Aspects of Semantic Analysis and Symbolic Artificial Intelligence) (Concerning northogonal bases)
+7. [Quantum Aspects of Semantic Analysis and Symbolic Artificial Intelligence](https://arxiv.org/abs/quant-ph/0309022) (Concerning northogonal bases)
