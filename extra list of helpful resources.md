@@ -15,4 +15,4 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 7. [Quantum Aspects of Semantic Analysis and Symbolic Artificial Intelligence](https://arxiv.org/abs/quant-ph/0309022) (Concerns supersymmetric dimensional reduction, in the regime of Moore-Penrose pseudo inverse, as used in deep learning)
 
-8. [An unsupervised algorithm for learning Lie group transformations](https://arxiv.org/pdf/1001.1027v4.pdf) (Concerns Lie AlgebraAlgebra, in the regime of Deep Lead)
+8. [An unsupervised algorithm for learning Lie group transformations](https://arxiv.org/pdf/1001.1027v4.pdf) (Concerns Lie Algebra, in the regime of Deep Learning)
