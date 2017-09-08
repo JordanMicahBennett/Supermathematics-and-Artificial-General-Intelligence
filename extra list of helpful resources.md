@@ -11,8 +11,10 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 5. [Fluctuation-Dissipation Theorem and Models of Learning](https://pdfs.semanticscholar.org/d839/6486c3206fb8dce0ccd19a43e01ce8abd866.pdf) (Concerns QFT, in the regime of Biophysics)
 
-6. [Rethinking Neural Networks: Quantum Fields and Biological Data](https://books.google.com.jm/books?id=L7NQAwAAQBAJ&pg=PA173&lpg=PA173&dq=neural+network+quantum+field+treatments&source=bl&ots=FoXErEu35R&sig=7YKMR_TmscbMT-FQhEiZlwAZXq4&hl=en&sa=X&ved=0ahUKEwjRz-2mt5XWAhWHMyYKHcwGBZwQ6AEIPDAD#v=onepage&q&f=false) (Concering QFT, in the regime of Biophysics)
+6. [Rethinking Neural Networks: Quantum Fields and Biological Data](https://books.google.com.jm/books?id=L7NQAwAAQBAJ&pg=PA173&lpg=PA173&dq=neural+network+quantum+field+treatments&source=bl&ots=FoXErEu35R&sig=7YKMR_TmscbMT-FQhEiZlwAZXq4&hl=en&sa=X&ved=0ahUKEwjRz-2mt5XWAhWHMyYKHcwGBZwQ6AEIPDAD#v=onepage&q&f=false) (Concerns QFT, in the regime of Biophysics)
 
 7. [Quantum Aspects of Semantic Analysis and Symbolic Artificial Intelligence](https://arxiv.org/abs/quant-ph/0309022) (Concerns supersymmetric dimensional reduction, in the regime of Moore-Penrose pseudo inverse, as used in deep learning)
 
 8. [An unsupervised algorithm for learning Lie group transformations](https://arxiv.org/pdf/1001.1027v4.pdf) (Concerns Lie Algebra, in the regime of Deep Learning)
+
+9. [Learning Unitary Operators with Help From u(n)](https://arxiv.org/pdf/1607.04903.pdf) (Concerns Lie Algebra, in the regime of Deep Learning)
