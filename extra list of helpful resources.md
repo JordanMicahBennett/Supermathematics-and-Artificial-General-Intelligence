@@ -21,5 +21,5 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 10. [Quantum Boltzman Machine](https://arxiv.org/abs/1601.02036) (Concerns the transverse Hamiltonian, in the regime of Deep Learning)
 
-11. [Quantum Reinforcement Learning] (https://arxiv.org/abs/1612.05695)(Concerns the transverse Hamiltonian, in the regime of Deep Reinforcement Learning)
+11. [Quantum Reinforcement Learning](https://arxiv.org/abs/1612.05695)(Concerns the transverse Hamiltonian, in the regime of Deep Reinforcement Learning)
 
