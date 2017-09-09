@@ -56,6 +56,10 @@ This was due to [evidence of supersymmetry in cognitive science](https://arxiv.o
 5. Thereafter 1, 2, 3, 4 and [supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134), within the generalizable nature of [euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), reasonably effectuate ϕ(x,θ,![alt text](https://i.imgur.com/ncrjUdkm.png))<SUP>T</SUP>w.
 
 
+Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamiltonian Quantum Computation 
+=====
+![alt text](https://i.imgur.com/JOysqUT.png)
+
 Extra considerations
 ======
 I am working to determine how feasible the  [supermanifold hypothesis model](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_) is.
