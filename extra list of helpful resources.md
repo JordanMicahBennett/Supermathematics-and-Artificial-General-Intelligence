@@ -19,9 +19,4 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 9. [Learning Unitary Operators with Help From u(n)](https://arxiv.org/pdf/1607.04903.pdf) (Concerns Lie Algebra, in the regime of Deep Learning)
 
-10. [Quantum Boltzman Machine](https://arxiv.org/abs/1601.02036) (Concerns the transverse Hamiltonian, in the regime of Deep Learning)
-
-11. [Quantum Reinforcement Learning](https://arxiv.org/abs/1612.05695) (Concerns the transverse Hamiltonian, in the regime of Deep Reinforcement Learning)
-
-12. [Elements of (super-)Hamiltonian Formalism](https://arxiv.org/abs/hep-th/0506170) (Concerns Hamiltonian formulation, in the regime of Superspace... Can such a superspace subsume quantum computation on the boundary of [11]?)
 
