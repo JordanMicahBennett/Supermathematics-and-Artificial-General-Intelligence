@@ -60,6 +60,8 @@ Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamilton
 =====
 ![alt text](https://i.imgur.com/JOysqUT.png)
 
+Here is this article in [pdf form](https://www.academia.edu/34494654/Supermathematics_and_Artificial_General_Intelligence).
+
 Extra considerations
 ======
 I am working to determine how feasible the  [supermanifold hypothesis model](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_) is.
@@ -68,4 +70,4 @@ I am working to design suitable experiments, and figuring out what type of pˆda
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
-Here is this article in [pdf form](https://www.academia.edu/34494654/Supermathematics_and_Artificial_General_Intelligence).
+
