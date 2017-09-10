@@ -68,4 +68,4 @@ I am working to design suitable experiments, and figuring out what type of pˆda
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
-Here is this article in pdf form: https://www.academia.edu/34494654/Supermathematics_and_Artificial_General_Intelligence
+Here is this article in [pdf form](https://www.academia.edu/34494654/Supermathematics_and_Artificial_General_Intelligence).
