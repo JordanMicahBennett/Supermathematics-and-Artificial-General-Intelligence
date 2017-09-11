@@ -19,4 +19,6 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 9. [Learning Unitary Operators with Help From u(n)](https://arxiv.org/pdf/1607.04903.pdf) (Concerns Lie Algebra, in the regime of Deep Learning)
 
+10. [NYUSeminars](http://people.bath.ac.uk/masjhd/Meetings/NYUSeminars.pdf) (Concerns Berezinians and Darboux Transformations
+on the superline)
 
