@@ -58,7 +58,7 @@ This was due to [evidence of supersymmetry in cognitive science](https://arxiv.o
 
 Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamiltonian Quantum Computation 
 =====
-![alt text](https://i.imgur.com/JOysqUT.png)
+![alt text](https://i.imgur.com/L96rxC3.png)
 
 Here is this article in [pdf form](https://www.academia.edu/34494654/Supermathematics_and_Artificial_General_Intelligence).
 
