@@ -3,6 +3,8 @@
 
 This thread concerns attempts to construct artificial general intelligence, which I often underline [may likely be mankind's last invention.](https://www.youtube.com/watch?v=9snY7lhJA4c)
 
+I clearly unravel how I came to invent the [supermanifold hypothesis in deep learning](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_), (a component in another description called ['thought curvature'](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis)) in relation to quantum computation.
+
 I am asking anybody that knows [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning to pitch in the discussion below.
 
 
@@ -66,7 +68,7 @@ Here is this article in [pdf form](https://www.academia.edu/34494654/Supermathem
 
 Extra considerations
 ======
-I am working to determine how feasible the  [model](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_) is.
+I am working to determine how feasible the  [model](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis) is.
 
 I am working to design suitable experiments, and figuring out what type of pˆdata (training samples) are sufficiently applicable to the [model](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis).
 
