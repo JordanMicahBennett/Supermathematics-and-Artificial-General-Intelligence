@@ -22,3 +22,5 @@ The following is a list of helpful resources (not listed in the paper), that are
 10. [NYUSeminars, JHD, 2 February 2017](http://people.bath.ac.uk/masjhd/Meetings/NYUSeminars.pdf) (Concerns Berezinians and Darboux Transformations on the superline)
 
 11. [Construction of Hamiltonians by machine learning of energy and entanglement spectra](https://arxiv.org/pdf/1705.05372.pdf) (Concerns Hamiltonian Construction on classical computers)
+
+12. [Diffeomorphisms and orthonormal frames](https://arxiv.org/pdf/hep-th/0406213.pdf) (Concerns pseusdogroup spins)
