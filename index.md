@@ -44,7 +44,7 @@ Given that cognitive science may be used to constrain machine learning models ([
 
 Part D - What I did to approach the problem...
 ======
-As a result I created something called the [supermanifold hypothesis in deep learning](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_) (a component in another description called ['thought curvature'](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis)). 
+As a result I created something called the [supermanifold hypothesis in deep learning](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_). (A part of a system called ['thought curvature'](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis)). 
 
 This was due to [evidence of supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134); I compacted machine learning related algebra for disentangling, in the regime of [supermanifolds](https://en.wikipedia.org/wiki/Supermanifold). This could be seen as an extension of [manifold learning in artificial intelligence](http://scikit-learn.org/stable/modules/manifold.html).
 
