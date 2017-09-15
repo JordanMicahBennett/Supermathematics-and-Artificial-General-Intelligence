@@ -72,7 +72,7 @@ In broader words, I consider the following evidence:
 
 (1) **Manifolds** are in the regime of **very general algorithms**, where many degrees of freedom are learnable, such that, for example: [models gain the ability to posses translation in-variance and translation variance at the same time](https://arxiv.org/abs/1606.05579). (i.e. disentangling factors of variation).
 
-(2) Given (1), and the generalizability of euclidean space, together with the instance that there persists [supersymmetric measurements in biological brains](https://arxiv.org/abs/0705.1134), it is not absurd that Supermathematics or Lie Superalgebras (in Supermanifolds) may eventually empirically apply in [Deep learning](https://en.wikipedia.org/wiki/Deep_learning), or some other named study of hierarchical learning in research.
+(2) Given (1), and the generalizability of euclidean space, together with the instance that there persists [supersymmetric measurements in biological brains](https://arxiv.org/abs/0705.1134), it is not absurd that **Supermathematics** or **Lie Superalgebras** (in **Supermanifolds**) may eventually empirically apply in [Deep learning](https://en.wikipedia.org/wiki/Deep_learning), or some other named study of hierarchical learning in research.
 
 Part G - Extra considerations
 ======
