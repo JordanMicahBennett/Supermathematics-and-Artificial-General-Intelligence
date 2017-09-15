@@ -70,7 +70,7 @@ Extra considerations
 ======
 I am working to determine how feasible the  [model](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis) is.
 
-I am working to design suitable experiments, and figuring out what type of pˆdata (training samples) are sufficiently applicable to the [model](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis).
+I am working to design suitable experiments, and figuring out what type of ![alt text](https://i.imgur.com/4P5rY64.png) (training samples) are sufficiently applicable to the [model](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis).
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
