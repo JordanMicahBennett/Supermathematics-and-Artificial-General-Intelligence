@@ -66,7 +66,7 @@ Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamilton
 Part F - Limitations
 ====
 
-**Notably**, although [thought curvature](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis) may turn out to be invalid in its simple description, there is a non-trivial possibility that the math of [Supermanifolds](https://en.wikipedia.org/wiki/Supermanifold) may inspire future Deep Learning; cutting edge [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) work tends to consider boundaries in the biological brain, [and biological brains can be evaluated using supersymmetric operations](https://arxiv.org/abs/0705.1134).
+**Notably**, although [thought curvature](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis) may turn out to be invalid in its simple description in relation to [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), there is a non-trivial possibility that the math of [Supermanifolds](https://en.wikipedia.org/wiki/Supermanifold) may inspire future Deep Learning; cutting edge [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) work tends to consider boundaries in the biological brain, [and biological brains can be evaluated using supersymmetric operations](https://arxiv.org/abs/0705.1134).
 
 In broader words, I consider the following evidence:
 
