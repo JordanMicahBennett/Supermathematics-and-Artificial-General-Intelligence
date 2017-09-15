@@ -62,16 +62,29 @@ Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamilton
 =====
 ![alt text](https://i.imgur.com/L96rxC3.png)
 
-Article Download
-======
-Here is this article in [pdf form](https://www.academia.edu/34494654/Supermathematics_and_Artificial_General_Intelligence).
 
-Extra considerations
+Part F - Limitations
+====
+
+**Notably**, although [thought curvature](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis) may turn out to be invalid in it’s simple description, there is a non-trivial possibility that the math of [Supermanifolds](https://en.wikipedia.org/wiki/Supermanifold) may inspire future Deep Learning; cutting edge [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) work tends to consider boundaries in the biological brain, [and biological brains can be evaluated using supersymmetric operations](https://arxiv.org/abs/0705.1134).
+
+In broader words, I consider the following evidence:
+
+(1) **Manifolds** are in the regime of **very general algorithms**, where many degrees of freedom are learnable, such that, for example: [models gain the ability to posses translation in-variance and translation variance at the same time](https://arxiv.org/abs/1606.05579). (i.e. disentangling factors of variation).
+
+(2) Given (1), and the generalizability of euclidean space, together with the instance that there persists [supersymmetric measurements in biological brains](https://arxiv.org/abs/0705.1134), it is not absurd that Supermathematics or Super lie-algebras (in Supermanifolds) may eventually empirically apply in [Deep learning](https://en.wikipedia.org/wiki/Deep_learning), or some other named study of hierarchical learning in research.
+
+Part G - Extra considerations
 ======
 I am working to determine how feasible the  [model](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis) is.
 
 I am working to design suitable experiments, and figuring out what type of ![alt text](https://i.imgur.com/4P5rY64.png) (training samples) are sufficiently applicable to the [model](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis).
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
+
+
+Part H - Article Download
+======
+Here is this article in [pdf form](https://www.academia.edu/34494654/Supermathematics_and_Artificial_General_Intelligence).
 
 
