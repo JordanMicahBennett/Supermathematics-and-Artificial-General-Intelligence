@@ -24,3 +24,5 @@ The following is a list of helpful resources (not listed in the paper), that are
 11. [Construction of Hamiltonians by machine learning of energy and entanglement spectra](https://arxiv.org/pdf/1705.05372.pdf) (Concerns Hamiltonian Construction on classical computers)
 
 12. [Diffeomorphisms and orthonormal frames](https://arxiv.org/pdf/hep-th/0406213.pdf) (Concerns pseusdogroup spins)
+
+13. [The supersymmetric tensor hierarchy of N = 1, d = 4 supergravity](https://arxiv.org/pdf/0903.0509.pdf) 
