@@ -25,6 +25,6 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 12. [Diffeomorphisms and orthonormal frames](https://arxiv.org/pdf/hep-th/0406213.pdf) (Concerns pseusdogroup spins)
 
-13. [The supersymmetric tensor hierarchy of N = 1, d = 4 supergravity](https://arxiv.org/pdf/0903.0509.pdf) (This is not to be confused for the [Supersymmetric/Symmetric tensor](https://en.wikipedia.org/wiki/Symmetric_tensor) from Mathematics, as seen in [Multilinear algebra](dddd) ) 
+13. [The supersymmetric tensor hierarchy of N = 1, d = 4 supergravity](https://arxiv.org/pdf/0903.0509.pdf) (This is not to be confused for the [Supersymmetric/Symmetric tensor](https://en.wikipedia.org/wiki/Symmetric_tensor) from Mathematics, as seen in [Multilinear algebra](http://www.sciencedirect.com/science/article/pii/S089571770700060X) ) 
 
 14. [Graded Lie Algebras, Supersymmetry, and Applications](https://abatanasov.github.io/Files/Supersymmetry.pdf) (Concerns graded lie alegras, on [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) tensors) 
