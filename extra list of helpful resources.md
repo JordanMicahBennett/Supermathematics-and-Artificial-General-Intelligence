@@ -27,4 +27,4 @@ The following is a list of helpful resources (not listed in the paper), that are
 
 13. [The supersymmetric tensor hierarchy of N = 1, d = 4 supergravity](https://arxiv.org/pdf/0903.0509.pdf) (Not to be confused for the [supersymmetric/symmetric tensor](https://en.wikipedia.org/wiki/Symmetric_tensor) from mathematics) 
 
-14. [Graded Lie Algebras, Supersymmetry, and Applications](https://abatanasov.github.io/Files/Supersymmetry.pdf) (Concerns graded lie alegras, on supersymmetric tensors) 
+14. [Graded Lie Algebras, Supersymmetry, and Applications](https://abatanasov.github.io/Files/Supersymmetry.pdf) (Concerns graded lie alegras, on [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) tensors) 
