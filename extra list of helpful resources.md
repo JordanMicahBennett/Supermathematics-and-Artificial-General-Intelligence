@@ -28,3 +28,7 @@ The following is a list of helpful resources (not listed in the [paper](http://w
 13. [The supersymmetric tensor hierarchy of N = 1, d = 4 supergravity](https://arxiv.org/pdf/0903.0509.pdf) (Concerns QFT, particularly supergravity theory on some quantum tensor formalism. This is not to be confused for [Supersymmetric/Symmetric tensors](https://en.wikipedia.org/wiki/Symmetric_tensor) from Mathematics, as seen in [Higher Order Symmetric Tensors, that dont concern superspace](https://arxiv.org/pdf/1201.3424). Pertinently, [see this paper, describing the phenomena of "super" tensor labelling errors](https://arxiv.org/pdf/0802.1681). Notably, [recent higher order tensor papers, that likewise dont concern superspace](https://arxiv.org/pdf/1701.0542) are still invalidly commiting the "super" labelling error, as described in the [error indicating paper prior cited](https://arxiv.org/pdf/0802.1681)).
 
 14. [Graded Lie Algebras, Supersymmetry, and Applications](https://abatanasov.github.io/Files/Supersymmetry.pdf) (Concerns graded lie alegras, on [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) tensors) 
+
+15. [Supersymmetry Groups](http://uw.physics.wisc.edu/~himpsel/449group.pdf) (Concerns gauge symmetries and supergroups)
+
+16. [Canonical solution of the state labelling problem for SU(n)⊃SO(n) and Littlewood's branching rule. I. General formulation](http://iopscience.iop.org/article/10.1088/0305-4470/16/10/006) (Concerns SU(n)⊃SO(n) formulations)
