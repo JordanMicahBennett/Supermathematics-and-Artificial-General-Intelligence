@@ -1,4 +1,4 @@
-The following is a list of helpful resources (not listed in the [paper](http://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis)), that are useful in order to continue the model in said ["Thought Curvature" paper](http://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis):
+The following is a list of helpful resources that are useful in order to continue the model in said ["Thought Curvature" paper](http://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis):
 =======
 
 1. [Exponential expressivity in deep neural networks through transient chaos](https://arxiv.org/pdf/1606.05340v2.pdf) (Concerns MFT in the Reimannian Geometry)
