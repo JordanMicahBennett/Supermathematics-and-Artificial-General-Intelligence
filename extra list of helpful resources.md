@@ -32,3 +32,5 @@ The following is a list of helpful resources that are useful in order to continu
 15. [Supersymmetry Groups](http://uw.physics.wisc.edu/~himpsel/449group.pdf) (Concerns gauge symmetries and supergroups)
 
 16. [Canonical solution of the state labelling problem for SU(n)⊃SO(n) and Littlewood's branching rule. I. General formulation](http://iopscience.iop.org/article/10.1088/0305-4470/16/10/006) (Describes that U(n) contains/implies O(n) in a very simple way)
+
+17. [Advances in quantum machine learning in 2016 and in early 2017](http://peterwittek.com/qml-2016-17.html) (Concerns quantum algorithms and theories ranging from classical sources, to quantum sources)
