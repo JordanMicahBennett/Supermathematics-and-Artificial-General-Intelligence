@@ -3,7 +3,7 @@
 
 This thread concerns attempts to construct artificial general intelligence, which I often underline [may likely be mankind's last invention.](https://www.youtube.com/watch?v=9snY7lhJA4c)
 
-I clearly unravel how I came to invent the [supermanifold hypothesis in deep learning](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_), (a component in another description called ['thought curvature'](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis)) in relation to quantum computation.
+I clearly unravel how I came to invent the [supermanifold hypothesis in deep learning](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning), (a component in another description called ['thought curvature'](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)) in relation to quantum computation.
 
 I am asking anybody that knows [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning to pitch in the discussion below.
 
@@ -44,11 +44,11 @@ Given that cognitive science may be used to constrain machine learning models ([
 
 Part D - What I did to approach the problem...
 ======
-As a result I created something called the [supermanifold hypothesis in deep learning](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_). (A part of a system called ['thought curvature'](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis)). 
+As a result I created something called the [supermanifold hypothesis in deep learning](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning). (A part of a system called ['thought curvature'](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)). 
 
 This was due to [evidence of supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134); I compacted machine learning related algebra for disentangling, in the regime of [supermanifolds](https://en.wikipedia.org/wiki/Supermanifold). This could be seen as an extension of [manifold learning in artificial intelligence](http://scikit-learn.org/stable/modules/manifold.html).
 
-**Given that the [supermanifold hypothesis](https://www.academia.edu/31926696/Supermanifold_Hypothesis_via_Deep_Learning_) compounds** ϕ(x,θ,![alt text](https://i.imgur.com/ncrjUdkm.png))<SUP>T</SUP>w, **here is an annotation of the hypothesis:**
+**Given that the [supermanifold hypothesis](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning) compounds** ϕ(x,θ,![alt text](https://i.imgur.com/ncrjUdkm.png))<SUP>T</SUP>w, **here is an annotation of the hypothesis:**
 
 
 1. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) entails ϕ(x;θ)<SUP>T</SUP>w, that denotes the input space x, and learnt representations θ.
@@ -66,7 +66,7 @@ Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamilton
 Part F - Limitations
 ====
 
-**Notably**, although [thought curvature](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis) may turn out to be invalid in its simple description in relation to [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), there is a non-trivial possibility that the math of [Supermanifolds](https://en.wikipedia.org/wiki/Supermanifold) may inspire future Deep Learning; [cutting edge Deep learning work](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/) tends to consider boundaries in the biological brain, [and biological brains can be evaluated using supersymmetric operations](https://arxiv.org/abs/0705.1134).
+**Notably**, although [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) may turn out to be invalid in its simple description in relation to [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), there is a non-trivial possibility that the math of [Supermanifolds](https://en.wikipedia.org/wiki/Supermanifold) may inspire future Deep Learning; [cutting edge Deep learning work](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/) tends to consider boundaries in the biological brain, [and biological brains can be evaluated using supersymmetric operations](https://arxiv.org/abs/0705.1134).
 
 In broader words, I consider the following evidence:
 
@@ -76,15 +76,15 @@ In broader words, I consider the following evidence:
 
 Part G - Extra considerations
 ======
-I am working to determine how feasible the  [model](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis) is.
+I am working to determine how feasible the  [model](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is.
 
-I am working to design suitable experiments, and figuring out what type of ![alt text](https://i.imgur.com/4P5rY64.png) (training samples) are sufficiently applicable to the [model](https://www.academia.edu/25733790/Thought_Curvature_An_underivative_hypothesis).
+I am working to design suitable experiments, and figuring out what type of ![alt text](https://i.imgur.com/4P5rY64.png) (training samples) are sufficiently applicable to the [model](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis).
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
 
 Part H - Article Download
 ======
-Here is this article in [pdf form](https://www.academia.edu/34494654/Supermathematics_and_Artificial_General_Intelligence).
+Here is this article in [pdf form](https://www.researchgate.net/publication/319523372_Supermathematics_and_Artificial_General_Intelligence).
 
 
