@@ -7,9 +7,17 @@ I clearly unravel how I came to invent the [supermanifold hypothesis in deep lea
 
 I am asking anybody that knows [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning to pitch in the discussion below.
 
+Part A - What is the goal?
+======
+(1) The aim is to build [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
+
+(2) Machine learning often concerns [constraining algorithms with respect to biological examples](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/).
+
+(3) Babies are great  examples of **some non trivial basis** for artificial general intelligence; babies are great examples of biological baseis we can use to inspire smart algorithms, especially in the aims of (1), especially regarding (2).
 
 
-Part A - Babies know physics, plus they learn
+
+Part B - Babies know physics, plus they learn
 ======
 Back in 2016, I [read somewhere that babies know some physics intuitively](https://www.washingtonpost.com/news/speaking-of-science/wp/2015/04/02/new-study-reveals-the-shockingly-complex-thought-processes-of-infants/?utm_term=.dd0b9545030b). 
 
@@ -17,7 +25,7 @@ Also, it is empirically observable that babies use that intuition to develop abs
 
 
 
-Part B - Algorithms for reinforcement learning and physics
+Part C - Algorithms for reinforcement learning and physics
 ======
 Now, I knew beforehand of two types of major deep learning models, that:
 
@@ -32,7 +40,7 @@ Now, I knew beforehand of two types of major deep learning models, that:
 (b) Instead, [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  excludes pooling, because [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  requires translation variance, in order for Q learning to apply on the changing positions of the objects in pixels.
 
 
-Part C - I sought to create...
+Part D - I sought to create...
 ======
 As a result I sought a model that could deliver both translation invariance and variance at the same time, and reasonably, **part of the solution** was models that disentangled factors of variation, i.e. [manifold learning frameworks](https://arxiv.org/abs/1611.03383).
 
@@ -42,7 +50,7 @@ Given that cognitive science may be used to constrain machine learning models ([
 
 
 
-Part D - What I did to approach the problem...
+Part E - What I did to approach the problem...
 ======
 As a result I created something called the [supermanifold hypothesis in deep learning](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning). (A part of a system called ['thought curvature'](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)). 
 
@@ -58,12 +66,12 @@ This was due to [evidence of supersymmetry in cognitive science](https://arxiv.o
 5. Thereafter 1, 2, 3, 4 and [supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134), within the generalizable nature of [euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), reasonably effectuate ϕ(x,θ,![alt text](https://i.imgur.com/ncrjUdkm.png))<SUP>T</SUP>w.
 
 
-Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamiltonian Quantum Computation 
+Part F - A probable experiment: A Transverse Field Ising Spin (Super)–Hamiltonian Quantum Computation 
 =====
 ![alt text](https://i.imgur.com/L96rxC3.png)
 
 
-Part F - Limitations
+Part G - Limitations
 ====
 
 **Notably**, although [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) may turn out to be invalid in its simple description in relation to [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), there is a non-trivial possibility that the math of [Supermanifolds](https://en.wikipedia.org/wiki/Supermanifold) may inspire future Deep Learning; [cutting edge Deep learning work](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/) tends to consider boundaries in the biological brain, [and biological brains can be evaluated using supersymmetric operations](https://arxiv.org/abs/0705.1134).
@@ -74,7 +82,7 @@ In broader words, I consider the following evidence:
 
 (2) Given (1), and the generalizability of euclidean space, together with the instance that there persists [supersymmetric measurements in biological brains](https://arxiv.org/abs/0705.1134), it is not absurd that **Supermathematics** or **Lie Superalgebras** (in **Supermanifolds**) may eventually empirically apply in [Deep learning](https://en.wikipedia.org/wiki/Deep_learning), or some other named study of hierarchical learning in research.
 
-Part G - Extra considerations
+Part H - Extra considerations
 ======
 I am working to determine how feasible the  [model](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is.
 
@@ -83,7 +91,7 @@ I am working to design suitable experiments, and figuring out what type of ![alt
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
 
-Part H - Article Download
+Part I - Article Download
 ======
 Here is this article in [pdf form](https://www.researchgate.net/publication/319523372_Supermathematics_and_Artificial_General_Intelligence).
 
