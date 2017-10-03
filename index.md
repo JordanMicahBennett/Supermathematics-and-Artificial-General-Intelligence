@@ -40,7 +40,7 @@ Now, I knew beforehand of two types of major deep learning models, that:
 (b) Instead, [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  excludes pooling, because [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  requires translation variance, in order for Q learning to apply on the changing positions of the objects in pixels.
 
 
-Part D - I sought to create...
+Part D - Problem discussion...
 ======
 As a result I sought a model that could deliver both translation invariance and variance at the same time, and reasonably, **part of the solution** was models that disentangled factors of variation, i.e. [manifold learning frameworks](https://arxiv.org/abs/1611.03383).
 
@@ -50,7 +50,7 @@ Given that cognitive science may be used to constrain machine learning models ([
 
 
 
-Part E - What I did to approach the problem...
+Part E - Problem approach...
 ======
 As a result I created something called the [supermanifold hypothesis in deep learning](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning). (A part of a system called ['thought curvature'](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)). 
 
