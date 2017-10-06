@@ -84,7 +84,7 @@ In broader words, I consider the following evidence:
 
 Part H - Considerations
 ======
-Notably, an initial degree of the
+Notably, an ***initial degree*** of the
 [(Super-) Hamiltonian](https://arxiv.org/abs/hep-th/0506170) structure required by [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) shall require a quite scalable scheme, such as some [boson sampling](https://en.wikipedia.org/wiki/Boson_sampling) aligned regime in particular, in conjunction with [supersymmetric space](https://arxiv.org/abs/0705.1134). This scheme is approachable [on the scale of 42 qubits](https://www.researchgate.net/publication/316643055_No_imminent_quantum_supremacy_by_boson_sampling#pf6), or a 44.8 gb ram configuration for simple task/circuit tests.
 
 Separately, I am working to determine how feasible the  [model](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is.
