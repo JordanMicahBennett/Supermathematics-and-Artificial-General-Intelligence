@@ -84,7 +84,10 @@ In broader words, I consider the following evidence:
 
 Part H - Considerations
 ======
-I am working to determine how feasible the  [model](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is.
+Notably, 
+[the (Super-) Hamiltonian](https://arxiv.org/abs/hep-th/0506170) structure required by [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) shall require a quite scalable scheme, such as some [boson sampling](https://en.wikipedia.org/wiki/Boson_sampling) aligned regime in particular. This scheme is approachable [on the scale of 42 qubits](https://www.researchgate.net/publication/316643055_No_imminent_quantum_supremacy_by_boson_sampling#pf6), or a 44.8 gb ram configuration for simple task/circuit tests.
+
+Separately, I am working to determine how feasible the  [model](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is.
 
 I am working to design suitable experiments, and figuring out what type of ![alt text](https://i.imgur.com/4P5rY64.png) (training samples) are sufficiently applicable to the [model](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis).
 
