@@ -13,7 +13,7 @@ Part A - What is the goal?
 
 (2) Machine learning often concerns [constraining algorithms with respect to biological examples](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/).
 
-(3) Babies are great  examples of **some non trivial basis** for [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence); babies are great examples of biological baseis that are reasonably usable to inspire smart algorithms, especially in the aims of (1), regarding (2).
+(3) Babies are great  examples of **some non trivial basis** for [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence); babies are significant examples of biological baseis that are reasonably usable to inspire smart algorithms, especially in the aims of (1), regarding (2).
 
 
 
