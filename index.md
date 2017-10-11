@@ -13,7 +13,7 @@ Part A - What is the goal?
 
 (2) Machine learning often concerns [constraining algorithms with respect to biological examples](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/).
 
-**(3)** Babies are great  examples of **some non trivial basis** for [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence); babies are significant examples of biological baseis that are reasonably usable to inspire smart algorithms, especially in the aims of (1), regarding (2).
+**(3)** Babies are great  examples of **some non-trivial basis** for [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence); babies are significant examples of biological baseis that are reasonably usable to inspire smart algorithms, especially in the aims of (1), regarding (2).
 
 [Thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) together with the [supermanifold hypothesis in deep learning](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning), espouses the **importance** of [considering biological constraints](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/) in the aim of developing  [general machine learning models](https://en.wikipedia.org/wiki/Artificial_general_intelligence), pertinently, where [babies&#39; brains are observed to be pre-equipped with particular &quot;**physics priors**&quot;, constituting specifically, the ability for babies to intuitively know laws of physics, while learning by reinforcement](http://science.sciencemag.org/content/348/6230/91).
 
