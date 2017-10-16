@@ -36,3 +36,5 @@ The following is a list of helpful resources that are useful in order to continu
 17. [Advances in quantum machine learning in 2016 and in early 2017](http://peterwittek.com/qml-2016-17.html) (Concerns 100's of quantum learning papers, including sources ranging from classical algorithms, to quantum algorithms)
 
 18. [Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/abs/1606.05579) (Concerns model that learns some degrees of freedom in terms of laws of physics, for subsequent use in RL context)
+
+19. [N=1 SQCD and the Transverse Field Ising Model](https://arxiv.org/abs/1104.1425)
