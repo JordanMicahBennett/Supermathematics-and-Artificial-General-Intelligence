@@ -73,7 +73,7 @@ This was due to [evidence of supersymmetry in cognitive science](https://arxiv.o
 
 Part F - A probable experiment: A Transverse Field Ising Spin (Super)–Hamiltonian Quantum Computation 
 =====
-![alt text](https://i.imgur.com/L96rxC3.png)
+![alt text](https://i.imgur.com/rfsCTNO.png)
 
 
 Part G - Limitations
