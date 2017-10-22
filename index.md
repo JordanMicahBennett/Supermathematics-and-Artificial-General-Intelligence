@@ -100,7 +100,7 @@ Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.
 Part I - Extras
 ======
 
-I compiled a list of resources (beyond things cited throughout the papers) that may be helpful [here](https://github.com/JordanMicahBennett/Supermathematics-and-Artificial-General-Intelligence/blob/master/extra%20list%20of%20helpful%20resources.md).
+I compiled a list of resources (beyond things cited throughout the papers) that may be helpful [here](https://github.com/JordanMicahBennett/Supermathematics-and-Artificial-General-Intelligence/blob/master/1.%20Extra%20list%20of%20helpful%20resources.md).
 
 
 
