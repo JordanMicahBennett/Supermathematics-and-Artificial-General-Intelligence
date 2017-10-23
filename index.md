@@ -86,7 +86,15 @@ In broader words, [thought curvature](https://www.researchgate.net/publication/3
 1. [Manifolds](https://en.wikipedia.org/wiki/Manifold) are in the regime of very general algorithms, [where many degrees of freedom are learnable](http://scikit-learn.org/stable/modules/manifold.html), such that, for example: models gain the ability to possess translation in-variance and translation variance at the same time. (i.e. disentangling factors of variation).
 2. Given (1), and the generalizability of  [euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), together with the instance that there persists  [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) measurements in biological brains, thought curvature predicates that  [Supermathematics](https://en.wikipedia.org/wiki/Supermathematics) or  [Lie Superalgebras](https://en.wikipedia.org/wiki/Lie_Superalgebras) (in  [Supermanifolds](https://en.wikipedia.org/wiki/Supermanifold)) may reasonably, empirically apply in  [Deep Learning](https://en.wikipedia.org/wiki/Deep_Learning), or some other named study of hierarchical learning in research.
 
-Part H - Considerations
+Part H - A brief discussion on the significance of a Transverse Field Ising Spin (Super)-Hamiltonian learning algorithm
+======
+The usage of [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) operations is imperatively efficient, as such operations enable deeply abstract representations (as is naturally afforded by symmetry group Lie Superalgebras[[source 1](https://arxiv.org/abs/0705.1134)][[source 2]](https://arxiv.org/abs/0705.1134)), pertinently, in a [time-space complex optimal regime](https://arxiv.org/abs/0705.1134). 
+
+From the above, one may garner that such deeply abstract representations are what may reasonably capture certain **“physics priors”**, (See **page 4** of the [paper](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)) abound the laws of physics.  
+
+Supermathematics and Artificial General Intelligence (PDF Download Available). Available from: https://www.researchgate.net/publication/319523372_Supermathematics_and_Artificial_General_Intelligence [accessed Oct 23 2017].
+
+Part I - Considerations
 ======
 Notably, an ***initial degree*** of the
 [(Super-) Hamiltonian](https://arxiv.org/abs/hep-th/0506170) structure required by [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) shall require a quite scalable scheme, such as some [boson sampling](https://en.wikipedia.org/wiki/Boson_sampling) aligned regime in particular, in conjunction with [supersymmetric space](https://arxiv.org/abs/0705.1134). This scheme is approachable [on the scale of 42 qubits](https://www.researchgate.net/publication/316643055_No_imminent_quantum_supremacy_by_boson_sampling#pf6), or a 42 qubit = ![alt text](https://i.imgur.com/qTHl2uA.png) gb = 131,072 gb ram configuration for simple task/circuit tests.
@@ -97,14 +105,14 @@ I am working to design suitable experiments, and figuring out what type of ![alt
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
-Part I - Extras
+Part J - Extras
 ======
 
 I compiled a list of resources (beyond things cited throughout the papers) that may be helpful [here](https://github.com/JordanMicahBennett/Supermathematics-and-Artificial-General-Intelligence/blob/master/1.%20Extra%20list%20of%20helpful%20resources.md).
 
 
 
-Part J - Article Download
+Part K - Article Download
 ======
 Here is this article in [pdf form](https://www.researchgate.net/publication/319523372_Supermathematics_and_Artificial_General_Intelligence).
 
