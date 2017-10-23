@@ -88,11 +88,10 @@ In broader words, [thought curvature](https://www.researchgate.net/publication/3
 
 Part H - A brief discussion on the significance of a Transverse Field Ising Spin (Super)-Hamiltonian learning algorithm
 ======
-The usage of [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) operations is imperatively efficient, as such operations enable deeply abstract representations (as is naturally afforded by symmetry group Lie Superalgebras[[source 1](https://arxiv.org/abs/0705.1134)][[source 2]](https://arxiv.org/abs/0705.1134)), pertinently, in a [time-space complex optimal regime](https://arxiv.org/abs/0705.1134). 
+The usage of [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) operations is imperatively efficient, as such operations enable deeply abstract representations (as is naturally afforded by symmetry group Lie Superalgebras[[source 1](https://arxiv.org/abs/0705.1134)][[source 2]](https://en.wikipedia.org/wiki/Symmetry_group#See_also)), pertinently, in a [time-space complex optimal regime](https://arxiv.org/abs/0705.1134). 
 
 From the above, one may garner that such deeply abstract representations are what may reasonably capture certain **“physics priors”**, (See **page 4** of the [paper](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)) abound the laws of physics.  
 
-Supermathematics and Artificial General Intelligence (PDF Download Available). Available from: https://www.researchgate.net/publication/319523372_Supermathematics_and_Artificial_General_Intelligence [accessed Oct 23 2017].
 
 Part I - Considerations
 ======
