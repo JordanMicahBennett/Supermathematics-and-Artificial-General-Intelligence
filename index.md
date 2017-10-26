@@ -83,14 +83,15 @@ Part G - Limitations
 
 In broader words, [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) occurs on the following evidence:
 
-1. [Manifolds](https://en.wikipedia.org/wiki/Manifold) are in the regime of very general algorithms, [where many degrees of freedom are learnable](http://scikit-learn.org/stable/modules/manifold.html), such that, for example: models gain the ability to possess translation in-variance and translation variance at the same time. (i.e. disentangling factors of variation).
+1. [Manifolds](https://en.wikipedia.org/wiki/Manifold) are in the regime of very [“general algorithms”](http://scikit-learn.org/stable/modules/manifold.html), that enable models to learn many degrees of freedom in latent space, (i.e. size, scale etc… where said degrees are observable as features of physics interactions) where transformations on points may represent for e.g., features of a particular object in pixel space, and transformations on said points or weights of an object are disentangleable or separable from those pertaining to other objects in latent space. ([Early Visual Concept Learner](https://arxiv.org/abs/1606.05579), [Mean field theory expressivity networks](https://arxiv.org/abs/1606.05340), etc)
+
 2. Given (1), and the generalizability of  [euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), together with the instance that there persists  [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) measurements in biological brains, thought curvature predicates that  [Supermathematics](https://en.wikipedia.org/wiki/Supermathematics) or  [Lie Superalgebras](https://en.wikipedia.org/wiki/Lie_Superalgebras) (in  [Supermanifolds](https://en.wikipedia.org/wiki/Supermanifold)) may reasonably, empirically apply in  [Deep Learning](https://en.wikipedia.org/wiki/Deep_Learning), or some other named study of hierarchical learning in research.
 
 Part H - A brief discussion on the significance of a Transverse Field Ising Spin (Super)-Hamiltonian learning algorithm
 ======
 The usage of [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) operations is **imperatively** efficient, as such operations enable **deeply abstract representations** (as is naturally afforded by symmetry group Lie Superalgebras (See [source 1](https://arxiv.org/abs/0705.1134), [source 2](https://en.wikipedia.org/wiki/Symmetry_group#See_also))), pertinently, in a [general, biologically tenable time-space complex optimal regime](https://arxiv.org/abs/0705.1134). 
 
-From the above, one may garner that such **deeply abstract representations** are what may **reasonably capture** certain **“physics priors”**, (See **page 4** of the [paper](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)) abound the [laws of physics](https://en.wikipedia.org/wiki/Laws_of_science).  
+As such said **deeply abstract representations** may **reasonably capture** certain **“physics priors”**, (See **page 4** of the [paper](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)) abound the [laws of physics](https://en.wikipedia.org/wiki/Laws_of_science).  
 
 
 Part I - Considerations
