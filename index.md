@@ -17,6 +17,8 @@ Part A - What is the goal?
 
 [Thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) together with the [supermanifold hypothesis in deep learning](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning), espouses the **importance** of [considering biological constraints](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/) in the aim of developing  [general machine learning models](https://en.wikipedia.org/wiki/Artificial_general_intelligence), pertinently, where [babies&#39; brains are observed to be pre-equipped with particular &quot;**physics priors**&quot;, constituting specifically, the ability for babies to intuitively know laws of physics, while learning by reinforcement](http://science.sciencemag.org/content/348/6230/91).
 
+**Sidenote**: Of course, by “know laws of physics intuitively”, I don't mean babies are nobel laureates or physics undergrads that do physics exams, but instead, that their brains are pre-baked with ways to naturally exercise physics based expectations w.r.t. interactions with objects in their world, as indicated by Stahl et sl.
+
 The importance of **recognizing underlying causal physics laws in learning models** (although **not via supermanifolds** , as encoded in [Thought Curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)), has recently been both [demonstrated](https://arxiv.org/abs/1606.05579) and separately [echoed by Deepmind](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/), and of late, distinctly [emphasized](https://arxiv.org/abs/1709.08568) by Yoshua Bengio.
 
 
