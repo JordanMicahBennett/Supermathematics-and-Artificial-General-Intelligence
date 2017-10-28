@@ -42,9 +42,9 @@ Now, I knew beforehand of two types of major deep learning models, that:
 
 **However**:
 
-a. Object detectors like [(2)](https://github.com/facebook/UETorch) use something called [pooling](http://iamaaditya.github.io/2016/03/one-by-one-convolution/) to gain translation invariance over objects, so that the model learns regardless of where the object in the image is positioned.
+(a). Object detectors like [(2)](https://github.com/facebook/UETorch) use something called [pooling](http://iamaaditya.github.io/2016/03/one-by-one-convolution/) to gain translation invariance over objects, so that the model learns regardless of where the object in the image is positioned.
 
-b. Instead, [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  excludes pooling, because [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  requires translation variance, in order for Q learning to apply on the changing positions of the objects in pixels.
+(b). Instead, [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  excludes pooling, because [(1)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  requires translation variance, in order for Q learning to apply on the changing positions of the objects in pixels.
 
 
 Part D - Problem discussion...
