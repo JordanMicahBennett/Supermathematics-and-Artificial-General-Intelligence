@@ -98,7 +98,7 @@ As such, said **deeply abstract representations** may **reasonably capture** cer
 Part H - An informal proof of the representation power gained by deeper abstractions of the &quot;Supersymmetric Artificial Neural Network&quot;
 ======
 
-Machine learning non-trivially concerns the application families of functions that  **guarantee more and more variations**  in weight space.
+Machine learning non-trivially concerns the application of families of functions that  **guarantee more and more variations**  in weight space.
 
 This means that machine learning researchers study what functions are best to transform the weights of the artificial neural network, such that the  **weights learn** to represent  **good values** for which  **correct hypotheses or guesses** can be produced by the artificial neural network.
 
