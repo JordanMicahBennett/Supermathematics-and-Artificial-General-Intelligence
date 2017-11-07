@@ -102,9 +102,9 @@ Machine learning non-trivially concerns the application families of functions th
 
 This means that machine learning researchers study what functions are best to transform the weights of the artificial neural network, such that the  **weights learn** to represent  **good values** for which  **correct hypotheses or guesses** can be produced by the artificial neural network.
 
-**The**  **Supersymmetric Artificial Neural Network** is yet another way to  **represent richer values**  in the weights of the model; because  **supersymmetric values** can allow for **more information to be captured about the input space.** For example, supersymmetric systems can capture **potential-partner** signals, which are **beyond** the feature space of **magnitude** and **phase signals** learnt in **typical**   **real valued neural nets** and **deep complex neural networks** respectively.  As such, a brief historical progression of geometric solution spaces for varying neural network architectures follows:
+**The**  [**"Supersymmetric Artificial Neural Network"**](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is yet another way to  **represent richer values**  in the weights of the model; because  **supersymmetric values** can allow for **more information to be captured about the input space.** For example, supersymmetric systems can capture **potential-partner** signals, which are **beyond** the feature space of **magnitude** and **phase signals** learnt in **typical**   **real valued neural nets** and **deep complex neural networks** respectively.  As such, a brief historical progression of geometric solution spaces for varying neural network architectures follows:
 
-![alt text](https://i.imgur.com/K7BIXKE.png)
+![alt text](https://i.imgur.com/JRVtYCC.png)
 
 
 Part I - Considerations
