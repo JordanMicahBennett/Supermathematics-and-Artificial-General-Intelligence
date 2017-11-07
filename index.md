@@ -95,7 +95,31 @@ The usage of [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) opera
 As such, said **deeply abstract representations** may **reasonably capture** certain **“physics priors”**, (See **page 4** of the [paper](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)) abound the [laws of physics](https://en.wikipedia.org/wiki/Laws_of_science).  
 
 
-Part H - Considerations
+Part H - An informal proof of the representation power gained by deeper abstractions of the &quot;Supersymmetric Artificial Neural Network&quot;
+======
+
+Machine learning non-trivially concerns the application families of functions that  **guarantee more and more variations**  in weight space.
+
+This means that machine learning researchers study what functions are best to transform the weights of the artificial neural network, such that the  **weights learn** to represent  **good values** for which  **correct hypotheses or guesses** can be produced by the artificial neural network.
+
+**The**  **Supersymmetric Artificial Neural Network** is yet another way to  **represent richer values**  in the weights of the model; because  **supersymmetric values** can allow for **more information to be captured about the input space.** For example, supersymmetric systems can capture **potential-partner** signals, which are **beyond** the feature space of **magnitude** and **phase signals** learnt in **typical**   **real valued neural nets** and **deep complex neural networks** respectively.  As such, a brief historical progression of geometric solution spaces for varying neural network architectures follows:
+
+
+1. An **optimal weight space** produced by **shallow** or low dimension **real valued artificial neural nets** , may have good weights that **lie in one simple (Zn−ordered) cone per class/target group**. [(source](https://en.wikipedia.org/wiki/Perceptron)) (This may guarantee **some variation**, but **not enough** for sophisticated tasks of higher dimension)
+
+
+2. An **optimal weight space** produced by **deep** or high-dimension-absorbing **real valued artificial neural nets**, may have good weights that **lie in disentangleable (Rn−ordered) manifolds per class/target group**, **instead** of simple cone-regions per class/target group. [(source)](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (This may guarantee **more variation** in the weight space **than (1)**, leading to **better hypotheses or guesses**)
+
+
+3. An **optimal weight space** produced by shallow or low dimension **complex valued artificial neural nets** , may have good weights that **lie in multiple (Cn−ordered) sectors per class/target group**, **instead** of a single simple cone-region for each class/target group. [(source)](http://makeyourownneuralnetwork.blogspot.com/2016/05/complex-valued-neural-networks.html) (This may guarantee **more variation** of the weight space **than the previous item**, **by** learning **additional features**, in the &quot;phase space&quot;. This also leads to **better hypotheses/guesses**)
+
+
+4. An **optimal weight space** produced by **deep** or high dimension **complex valued artificial neural nets**, may have good weights that **lie in chi distribution bound, (Cn∗Cn−ordered) rayleigh space per class/target group** convolved by the operator, **instead** of the simpler sectors/regions per class/target group seen in (3) above. [(source)](https://arxiv.org/pdf/1705.09792.pdf) (This may guarantee **more variation** of the weight space **than the prior items**, by learning phase space representations, and **by extension, strengthen** these representations via convolutional residual blocks. This also leads to **better hypotheses/guesses**)
+
+5. The &quot;**Supersymmetric Artificial Neural Network**&quot; operable on high dimensional data, may reasonably generate **good weights** that **lie in disentangleable** (C∞(Rn∨m)−ordered) **supermanifolds per class/target group** , **instead** of the solution geometries seen **in the prior items above**.  Supersymmetric values can encode **rich partner-potential delimited features beyond the phase space of (4)** in accordance with [cognitive biological space](https://arxiv.org/abs/0705.1134), **where (4) lacks the partner potential formulation** describable in Supersymmetric embedding. [(source)](https://en.wikipedia.org/wiki/Supersymmetry)
+
+
+Part I - Considerations
 ======
 Notably, an ***initial degree*** of the
 [(Super-) Hamiltonian](https://arxiv.org/abs/hep-th/0506170) structure required by [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) shall require a quite scalable scheme, such as some [boson sampling](https://en.wikipedia.org/wiki/Boson_sampling) aligned range, in conjunction with [supersymmetric space](https://arxiv.org/abs/0705.1134). This scheme is approachable [on the scale of 42 qubits](https://www.researchgate.net/publication/316643055_No_imminent_quantum_supremacy_by_boson_sampling#pf6), or a 42 qubit = ![alt text](https://i.imgur.com/qTHl2uA.png) gb = 131,072 gb ram configuration for simple task/circuit tests.
@@ -106,14 +130,14 @@ I am working to design suitable experiments, and figuring out what type of ![alt
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
-Part I - Extras
+Part J - Extras
 ======
 
 I compiled a list of resources (beyond things cited throughout the papers) that may be helpful [here](https://github.com/JordanMicahBennett/Supermathematics-and-Artificial-General-Intelligence/blob/master/1.%20Extra%20list%20of%20helpful%20resources.md).
 
 
 
-Part J - Article Download
+Part K - Article Download
 ======
 Here is this article in [pdf form](https://www.researchgate.net/publication/319523372_Supermathematics_and_Artificial_General_Intelligence).
 
