@@ -104,19 +104,7 @@ This means that machine learning researchers study what functions are best to tr
 
 **The**  **Supersymmetric Artificial Neural Network** is yet another way to  **represent richer values**  in the weights of the model; because  **supersymmetric values** can allow for **more information to be captured about the input space.** For example, supersymmetric systems can capture **potential-partner** signals, which are **beyond** the feature space of **magnitude** and **phase signals** learnt in **typical**   **real valued neural nets** and **deep complex neural networks** respectively.  As such, a brief historical progression of geometric solution spaces for varying neural network architectures follows:
 
-
-1. An **optimal weight space** produced by **shallow** or low dimension **real valued artificial neural nets** , may have good weights that **lie in one simple ![alt text](https://i.imgur.com/P8qTgCn.png) cone per class/target group**. [(source](https://en.wikipedia.org/wiki/Perceptron)) (This may guarantee **some variation**, but **not enough** for sophisticated tasks of higher dimension)
-
-
-2. An **optimal weight space** produced by **deep** or high-dimension-absorbing **real valued artificial neural nets**, may have good weights that **lie in disentangleable ![alt text](https://i.imgur.com/LcMzBSg.png) manifolds per class/target group**, **instead** of simple cone-regions per class/target group. [(source)](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks) (This may guarantee **more variation** in the weight space **than (1)**, leading to **better hypotheses or guesses**)
-
-
-3. An **optimal weight space** produced by shallow or low dimension **complex valued artificial neural nets** , may have good weights that **lie in multiple ![alt text](https://i.imgur.com/fiK0Rz0.png) sectors per class/target group**, **instead** of a single simple cone-region for each class/target group. [(source)](http://makeyourownneuralnetwork.blogspot.com/2016/05/complex-valued-neural-networks.html) (This may guarantee **more variation** of the weight space **than the previous item**, **by** learning **additional features**, in the &quot;phase space&quot;. This also leads to **better hypotheses/guesses**)
-
-
-4. An **optimal weight space** produced by **deep** or high dimension **complex valued artificial neural nets**, may have good weights that **lie in chi distribution bound, ![alt text](https://i.imgur.com/gWH19Uy.png) rayleigh space per class/target group** convolved by the operator, **instead** of the simpler sectors/regions per class/target group seen in (3) above. [(source)](https://arxiv.org/pdf/1705.09792.pdf) (This may guarantee **more variation** of the weight space **than the prior items**, by learning phase space representations, and **by extension, strengthen** these representations via convolutional residual blocks. This also leads to **better hypotheses/guesses**)
-
-5. The &quot;**Supersymmetric Artificial Neural Network**&quot; operable on high dimensional data, may reasonably generate **good weights** that **lie in disentangleable** ![alt text](https://i.imgur.com/kGtICKT.png) **supermanifolds per class/target group** , **instead** of the solution geometries seen **in the prior items above**.  Supersymmetric values can encode **rich partner-potential delimited features beyond the phase space of (4)** in accordance with [cognitive biological space](https://arxiv.org/abs/0705.1134), **where (4) lacks the partner potential formulation** describable in Supersymmetric embedding. [(source)](https://en.wikipedia.org/wiki/Supersymmetry)
+![alt text](https://i.imgur.com/poFhISb.png)
 
 
 Part I - Considerations
