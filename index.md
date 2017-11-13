@@ -65,11 +65,11 @@ This was due to [evidence of supersymmetry in cognitive science](https://arxiv.o
 **Given that the [supermanifold hypothesis](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning) compounds** ϕ(x,θ,θ¯)<SUP>T</SUP>w, **here is an annotation of the hypothesis:**
 
 
-1. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) entails ϕ(x,θ)<SUP>T</SUP>w, that denotes the input space x, and learnt representations ![alt text](https://i.imgur.com/PRSAGxn.png).
+1. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) entails ϕ(x,θ)<SUP>T</SUP>w, that denotes the input space x, and learnt representations θ.
 2. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) underlines that coordinates or latent spaces in the [manifold](https://en.wikipedia.org/wiki/Manifold) framework, are learnt features/representations, or directions that are sparse configurations of coordinates.
-3. [Supermathematics](https://en.wikipedia.org/wiki/Supermathematicsg) entails (x,θ,θ¯), that denotes some x valued coordinate distribution, and by extension, directions that compact coordinates via !θ,θ¯
+3. [Supermathematics](https://en.wikipedia.org/wiki/Supermathematicsg) entails (x,θ,θ¯), that denotes some x valued coordinate distribution, and by extension, directions that compact coordinates via θ,θ¯.
 4.  As such, the aforesaid (x,θ,θ¯), is subject to coordinate transformation.
-5. Thereafter 1, 2, 3, 4 and [supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134), within the generalizable nature of [euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), reasonably effectuate ϕ(x,!θ,θ¯)<SUP>T</SUP>w.
+5. Thereafter 1, 2, 3, 4 and [supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134), within the generalizable nature of [euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), reasonably effectuate ϕ(x,θ,θ¯)<SUP>T</SUP>w.
 
 
 Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamiltonian Quantum Computation 
