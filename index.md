@@ -3,7 +3,7 @@
 
 This thread concerns attempts to construct artificial general intelligence, which I often underline [may likely be mankind's last invention.](https://www.youtube.com/watch?v=9snY7lhJA4c)
 
-I clearly unravel how I came to invent the [supermanifold hypothesis in deep learning](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning), (a component in another description called ['thought curvature'](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) i.e. the &quot;**[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)**&quot;) in relation to quantum computation.
+I clearly unravel how I came to invent the [supermanifold hypothesis in deep learning](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning), (a component in another description called ['thought curvature'](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis), consisting of the &quot;**[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)**&quot;) in relation to quantum computation.
 
 I am asking anybody that knows [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning to pitch in the discussion below.
 
@@ -102,7 +102,7 @@ Machine learning non-trivially concerns the application of families of functions
 
 This means that machine learning researchers study what functions are best to transform the weights of the artificial neural network, such that the  **weights learn** to represent  **good values** for which  **correct hypotheses or guesses** can be produced by the artificial neural network.
 
-**The**  [**"Supersymmetric Artificial Neural Network"**](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network) is yet another way to  **represent richer values**  in the weights of the model; because  **supersymmetric values** can allow for **more information to be captured about the input space.** For example, supersymmetric systems can capture **potential-partner** signals, which are **beyond** the feature space of **magnitude** and **phase signals** learnt in **typical**   **real valued neural nets** and **deep complex neural networks** respectively.  As such, a brief historical progression of geometric solution spaces for varying neural network architectures follows:
+**The**  [**"Supersymmetric Artificial Neural Network"**](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network) (a core component in [‘thought curvature’](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)) is yet another way to  **represent richer values**  in the weights of the model; because  **supersymmetric values** can allow for **more information to be captured about the input space.** For example, supersymmetric systems can capture **potential-partner** signals, which are **beyond** the feature space of **magnitude** and **phase signals** learnt in **typical**   **real valued neural nets** and **deep complex neural networks** respectively.  As such, a brief historical progression of geometric solution spaces for varying neural network architectures follows:
 
 ![alt text](https://i.imgur.com/h23VvsS.png)
 
