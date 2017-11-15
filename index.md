@@ -104,7 +104,7 @@ This means that machine learning researchers study what functions are best to tr
 
 **The**  [**"Supersymmetric Artificial Neural Network"**](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network) (a core component in [‘thought curvature’](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)) is yet another way to  **represent richer values**  in the weights of the model; because  **supersymmetric values** can allow for **more information to be captured about the input space.** For example, supersymmetric systems can capture **potential-partner** signals, which are **beyond** the feature space of **magnitude** and **phase signals** learnt in **typical**   **real valued neural nets** and **deep complex neural networks** respectively.  As such, a brief historical progression of geometric solution spaces for varying neural network architectures follows:
 
-![alt text](https://i.imgur.com/h23VvsS.png)
+![alt text](https://i.imgur.com/NRA0CH3.png)
 
 
 Part I - Considerations
