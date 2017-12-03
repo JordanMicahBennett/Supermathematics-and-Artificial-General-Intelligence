@@ -106,8 +106,22 @@ This means that machine learning researchers study what functions are best to tr
 
 ![alt text](https://i.imgur.com/NRA0CH3.png)
 
+Part I - Considerations for Supersymmetric Reinforcement Learning
+======
+Following, is another view of “solution geometry” history, which may promote a clear way to view the reasoning behind the subsequent pseudocode sequence:
 
-Part I - Considerations
+![alt text](https://i.imgur.com/Mp7Ttxb.png)
+
+I call an “Edward Witten/String theory powered artificial neural network”, ‘simply’ an artificial neural network that learns [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) weights.
+
+Looking at the above progression of ‘solution geometries’; going from `[SO(n)](https://en.wikipedia.org/wiki/Perceptron)` representation to `[SU(n)](https://arxiv.org/pdf/1612.05231.pdf)` representation has guaranteed richer and richer representations in weight space of the artificial neural network, and hence better and better hypotheses were generatable. It is only then somewhat natural to look to `[SU(m|n)](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)` representation, our “Edward Witten/String theory powered artificial neural network” aka “Supersymmetric Artificial Neural Network”.
+
+Anyway, to build an “Edward Witten/String theory powered artificial neural network”, it may be possible to start with a [grasmann based artificial neural network](https://arxiv.org/pdf/1611.05742.pdf), in the following fashion, then generate ‘charts’ up until the “Edward Witten/String theory powered artificial neural network” is achieved:
+
+![alt text](https://i.imgur.com/gjmU0wC.png)
+
+
+Part J - Considerations for Supersymmetric Reinforcement Learning
 ======
 Notably, an ***initial degree*** of the
 [(Super-) Hamiltonian](https://arxiv.org/abs/hep-th/0506170) structure required by [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) shall require a quite scalable scheme, such as some [boson sampling](https://en.wikipedia.org/wiki/Boson_sampling) aligned range, in conjunction with [supersymmetric space](https://arxiv.org/abs/0705.1134). This scheme is approachable [on the scale of 42 qubits](https://www.researchgate.net/publication/316643055_No_imminent_quantum_supremacy_by_boson_sampling#pf6), or a 42 qubit = ![alt text](https://i.imgur.com/qTHl2uA.png) gb = 131,072 gb ram configuration for simple task/circuit tests.
@@ -118,14 +132,14 @@ I am working to design suitable experiments, and figuring out what type of ![alt
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
-Part J - Extras
+Part K - Extras
 ======
 
 I compiled a list of resources (beyond things cited throughout the papers) that may be helpful [here](https://github.com/JordanMicahBennett/Supermathematics-and-Artificial-General-Intelligence/blob/master/1.%20Extra%20list%20of%20helpful%20resources.md).
 
 
 
-Part K - Article Download
+Part L - Article Download
 ======
 Here is this article in [pdf form](https://www.researchgate.net/publication/319523372_Supermathematics_and_Artificial_General_Intelligence).
 
