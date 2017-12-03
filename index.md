@@ -106,7 +106,7 @@ This means that machine learning researchers study what functions are best to tr
 
 ![alt text](https://i.imgur.com/NRA0CH3.png)
 
-Part I - Considerations for Supersymmetric Reinforcement Learning
+Part I - Pseudocode for the “Supersymmetric Artificial Neural Network"
 ======
 Following, is another view of “solution geometry” history, which may promote a clear way to view the reasoning behind the subsequent pseudocode sequence:
 
