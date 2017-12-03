@@ -110,7 +110,7 @@ Part I - Pseudocode for the “Supersymmetric Artificial Neural Network"
 ======
 Following, is another view of “solution geometry” history, which may promote a clear way to view the reasoning behind the subsequent pseudocode sequence:
 
-![alt text](https://i.imgur.com/Mp7Ttxb.png)
+![alt text](https://i.imgur.com/PyO5goI.png)
 
 I call an “Edward Witten/String theory powered artificial neural network”, ‘simply’ an artificial neural network that learns [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) weights.
 
@@ -118,7 +118,7 @@ Looking at the above progression of ‘solution geometries’; going from [`SO(n
 
 To construct an “Edward Witten/String theory powered artificial neural network”, it may be feasible to start with a [grassmann based artificial neural network](https://arxiv.org/pdf/1611.05742.pdf) then [generate ‘charts’](http://www.math.wisc.edu/~robbin/761dir/grassmann.pdf) until [scenarios occur](https://en.wikipedia.org/wiki/Supersymmetry) where the “Edward Witten/String theory powered artificial neural network” is achieved, in the following way:
 
-![alt text](https://i.imgur.com/PyO5goI.png)
+![alt text](https://i.imgur.com/gjmU0wC.png)
 
 
 Part J - Considerations for Supersymmetric Reinforcement Learning
