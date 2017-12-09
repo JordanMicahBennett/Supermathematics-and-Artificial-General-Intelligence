@@ -62,12 +62,12 @@ As a result I created something called the [supermanifold hypothesis in deep lea
 
 This was due to [evidence of supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134); I compacted machine learning related algebra for disentangling, in the regime of [supermanifolds](https://en.wikipedia.org/wiki/Supermanifold). This could be seen as an extension of [manifold learning in artificial intelligence](http://scikit-learn.org/stable/modules/manifold.html).
 
-![alt text](https://i.imgur.com/wgCnbTp.png)
+![alt text](https://i.imgur.com/NZVREU2.jpg)
 
 
 Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamiltonian Quantum Computation 
 =====
-![alt text](https://i.imgur.com/NZVREU2.jpg)
+![alt text](https://i.imgur.com/wgCnbTp.png)
 
 
 Part F - Limitations
