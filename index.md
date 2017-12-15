@@ -103,7 +103,7 @@ Part I - Pseudocode for the “Supersymmetric Artificial Neural Network"
 ======
 Following, is another view of “solution geometry” history, which may promote a clear way to view the reasoning behind the subsequent pseudocode sequence:
 
-![alt text](https://i.imgur.com/4ZEWuNg.png)
+![alt text](https://i.imgur.com/Zt7cD9b.png)
 
 I call an “Edward Witten/String theory powered artificial neural network”, ‘simply’ an artificial neural network that learns [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) weights.
 
