@@ -1,7 +1,7 @@
 ![alt text](https://i.imgur.com/lQJjpAk.gif)
 
 
-This thread concerns attempts to construct artificial general intelligence, which I often underline [may likely be mankind's last invention.](https://www.youtube.com/watch?v=9snY7lhJA4c)
+This thread concerns attempts to contribute to the field of artificial general intelligence, which I often underline [may likely be mankind's last invention.](https://www.youtube.com/watch?v=9snY7lhJA4c)
 
 I clearly unravel how I came to invent the [supermanifold hypothesis in deep learning](https://www.researchgate.net/publication/316617464_Supermanifold_Hypothesis_via_Deep_Learning), (a component in another description called ['thought curvature'](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis), consisting of the &quot;**[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)**&quot;) in relation to quantum computation.
 
@@ -9,7 +9,7 @@ I am asking anybody that knows [supermathematics](https://en.wikipedia.org/wiki/
 
 Part A - What is the goal?
 ======
-1. The aim is to build [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
+1. The aim is to contribute to the field of [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
 
 2. Machine learning often concerns [constraining algorithms with respect to biological examples](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/).
 
