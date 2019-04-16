@@ -62,12 +62,12 @@ As a result I created something called the [supermanifold hypothesis in deep lea
 
 This was due to [evidence of supersymmetry in cognitive science](https://arxiv.org/abs/0705.1134); I compacted machine learning related algebra for disentangling, in the regime of [supermanifolds](https://en.wikipedia.org/wiki/Supermanifold). This could be seen as an extension of [manifold learning in artificial intelligence](http://scikit-learn.org/stable/modules/manifold.html).
 
-![alt text](https://i.imgur.com/NZVREU2.jpg)
+![alt text](https://i.imgur.com/tnIwxwE.jpg)
 
 
 Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamiltonian Quantum Computation 
 =====
-![alt text](https://i.imgur.com/0z8cJwb.png)
+![alt text](https://i.imgur.com/uV0Nb7C.png)
 
 
 Part F - Limitations
@@ -103,7 +103,7 @@ Part I - Pseudocode for the “Supersymmetric Artificial Neural Network"
 ======
 Following, is another view of “solution geometry” history, which may promote a clear way to view the reasoning behind the subsequent pseudocode sequence:
 
-![alt text](https://i.imgur.com/R6i9AJc.png)
+![alt text](https://i.imgur.com/vbon07Z.png)
 
 I call an “Edward Witten/String theory powered artificial neural network”, ‘simply’ an artificial neural network that learns [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) weights.
 
@@ -111,7 +111,7 @@ Looking at the above progression of ‘solution geometries’; going from [`SO(n
 
 To construct an “Edward Witten/String theory powered artificial neural network”, it may be feasible to start with a [grassmann manifold artificial neural network](https://arxiv.org/pdf/1611.05742.pdf) then [generate ‘charts’](http://www.math.wisc.edu/~robbin/761dir/grassmann.pdf) until [scenarios occur](https://en.wikipedia.org/wiki/Supersymmetry) where the “Edward Witten/String theory powered artificial neural network” is achieved, in the following way:
 
-![alt text](https://i.imgur.com/NH22X7k.png)
+![alt text](https://i.imgur.com/dT5c9Rq.png)
 
 
 Part J - Considerations for Supersymmetric Reinforcement Learning
