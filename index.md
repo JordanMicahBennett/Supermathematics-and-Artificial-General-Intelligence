@@ -116,12 +116,11 @@ To construct an “Edward Witten/String theory powered artificial neural network
 
 Part J - Considerations for Supersymmetric Reinforcement Learning
 ======
-Notably, an ***initial degree*** of the
-[(Super-) Hamiltonian](https://arxiv.org/abs/hep-th/0506170) structure required by [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) shall require a quite scalable scheme, such as some [boson sampling](https://en.wikipedia.org/wiki/Boson_sampling) aligned range, in conjunction with [supersymmetric space](https://arxiv.org/abs/0705.1134). This scheme is approachable [on the scale of 42 qubits](https://www.researchgate.net/publication/316643055_No_imminent_quantum_supremacy_by_boson_sampling#pf6), or a 42 qubit = ![alt text](https://i.imgur.com/qTHl2uA.png) gb = 131,072 gb ram configuration for simple task/circuit tests.
+Pertinently, the “Edward Witten/String theory powered supersymmetric artificial neural network”, is one wherein supersymmetric weights are sought.
+Many machine learning algorithms are not empirically shown to be exactly biologically plausible, i.e. Deep Neural Network algorithms, have not been observed to occur in the brain, but regardless, such algorithms work in practice in machine learning. 
 
-Separately, I am working to determine how feasible the  [model](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is.
+Likewise, regardless of Supersymmetry's elusiveness at the LHC, as seen above, it may be quite feasible to borrow formal methods from strategies in physics even if such strategies are yet to show related physical phenomena to exist; thus it may be pertinent/feasible to try to construct a model that learns supersymmetric weights, as I proposed throughout this paper, following the progression of solution geometries going from SO(n) to SU(n) and onwards to [`SU(m|n)`](https://en.wikipedia.org/wiki/Supergroup_(physics)).
 
-I am working to design suitable experiments, and figuring out what type of ![alt text](https://i.imgur.com/4P5rY64.png) (training samples) are sufficiently applicable to the [model](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis).
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
