@@ -114,7 +114,7 @@ To construct an “Edward Witten/String theory powered artificial neural network
 ![alt text](https://i.imgur.com/dT5c9Rq.png)
 
 
-Part J - Considerations for Supersymmetric Reinforcement Learning
+Part J - Conclusion
 ======
 Pertinently, the “Edward Witten/String theory powered supersymmetric artificial neural network”, is one wherein supersymmetric weights are sought.
 Many machine learning algorithms are not empirically shown to be exactly biologically plausible, i.e. Deep Neural Network algorithms, have not been observed to occur in the brain, but regardless, such algorithms work in practice in machine learning. 
