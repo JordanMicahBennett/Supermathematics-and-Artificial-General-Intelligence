@@ -113,8 +113,13 @@ To construct an “Edward Witten/String theory powered artificial neural network
 
 ![alt text](https://i.imgur.com/dT5c9Rq.png)
 
+Part J - Artificial neural network/symmetry group landscape visualization
+===================
+![](https://i.imgur.com/6ikD2UZ.png)
+paper: https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis
 
-Part J - Conclusion
+
+Part K - Conclusion
 ======
 Pertinently, the “Edward Witten/String theory powered supersymmetric artificial neural network”, is one wherein supersymmetric weights are sought.
 Many machine learning algorithms are not empirically shown to be exactly biologically plausible, i.e. Deep Neural Network algorithms, have not been observed to occur in the brain, but regardless, such algorithms work in practice in machine learning. 
@@ -124,14 +129,14 @@ Likewise, regardless of Supersymmetry's elusiveness at the LHC, as seen above, i
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
-Part K - Extras
+Part L - Extras
 ======
 
 I compiled a list of resources (beyond things cited throughout the papers) that may be helpful [here](https://github.com/JordanMicahBennett/Supermathematics-and-Artificial-General-Intelligence/blob/master/1.%20Extra%20list%20of%20helpful%20resources.md).
 
 
 
-Part L - Article Download
+Part M - Article Download
 ======
 Here is this article in [pdf form](https://www.researchgate.net/publication/319523372_Supermathematics_and_Artificial_General_Intelligence).
 
