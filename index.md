@@ -65,12 +65,7 @@ This was due to [evidence of supersymmetry in cognitive science](https://arxiv.o
 ![alt text](https://i.imgur.com/tnIwxwE.jpg)
 
 
-Part E - A probable experiment: A Transverse Field Ising Spin (Super)–Hamiltonian Quantum Computation 
-=====
-![alt text](https://i.imgur.com/uV0Nb7C.png)
-
-
-Part F - Limitations
+Part E - Limitations
 ====
 
 **Although** [thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is minor particularly in its simple description (acquiescing [SQCD](https://arxiv.org/abs/1104.1425)) in relation to [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_General_Intelligence), it **crucially** delineates that the math of [supermanifolds](https://en.wikipedia.org/wiki/Supermanifold) is reasonably applicable in [Deep Learning](https://en.wikipedia.org/wiki/Deep_Learning), imparting that [cutting edge  Deep Learning work tends to consider boundaries in the biological brain](https://deepmind.com/research/publications/neuroscience-inspired-artificial-intelligence/) while underscoring that biological brains can be **optimally** evaluated using [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) operations.
@@ -81,14 +76,14 @@ In broader words, [thought curvature](https://www.researchgate.net/publication/3
 
 2. Given (1), and the generalizability of  [euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), together with the instance that there persists  [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) measurements in biological brains, thought curvature predicates that  [Supermathematics](https://en.wikipedia.org/wiki/Supermathematics) or  [Lie Superalgebras](https://en.wikipedia.org/wiki/Lie_Superalgebras) (in  [Supermanifolds](https://en.wikipedia.org/wiki/Supermanifold)) may reasonably, empirically apply in  [Deep Learning](https://en.wikipedia.org/wiki/Deep_Learning), or some other named study of hierarchical learning in research.
 
-Part G - A brief discussion on the significance of a Transverse Field Ising Spin (Super)-Hamiltonian learning algorithm
+Part F - A brief discussion on the significance of a Transverse Field Ising Spin (Super)-Hamiltonian learning algorithm
 ======
 The usage of [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) operations is **imperatively** efficient, as such operations enable **deeply abstract representations** (as is naturally afforded by symmetry group Lie Superalgebras (See [source 1](https://arxiv.org/abs/0705.1134), [source 2](https://en.wikipedia.org/wiki/Symmetry_group#See_also))), pertinently, in a [general, biologically tenable time-space complex optimal regime](https://arxiv.org/abs/0705.1134). 
 
 As such, said **deeply abstract representations** may **reasonably capture** certain **“physics priors”**, (See **page 4** of the [paper](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)) abound the [laws of physics](https://en.wikipedia.org/wiki/Laws_of_science).  
 
 
-Part H - An informal proof of the representation power gained by deeper abstractions of the &quot;Supersymmetric Artificial Neural Network&quot;
+Part G - An informal proof of the representation power gained by deeper abstractions of the &quot;Supersymmetric Artificial Neural Network&quot;
 ======
 
 Machine learning non-trivially concerns the application of families of functions that  **guarantee more and more variations**  in weight space.
@@ -99,7 +94,7 @@ This means that machine learning researchers study what functions are best to tr
 
 ![alt text](https://i.imgur.com/NRA0CH3.png)
 
-Part I - Naive Archictecture for the “Supersymmetric Artificial Neural Network" 
+Part H - Naive Archictecture for the “Supersymmetric Artificial Neural Network" 
 ======
 Following, is another view of “solution geometry” history, which may promote a clear way to view the reasoning behind the subsequent naive architecture sequence:
 
@@ -113,13 +108,13 @@ To construct an “Edward Witten/String theory powered artificial neural network
 
 ![alt text](https://i.imgur.com/Qz1tseV.png)
 
-Part J - Artificial neural network/symmetry group landscape visualization
+Part I - Artificial neural network/symmetry group landscape visualization
 ===================
 ![](https://i.imgur.com/KdcuSUa.png)
 paper: https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis
 
 
-Part K - Conclusion
+Part J - Conclusion
 ======
 Pertinently, the “Edward Witten/String theory powered supersymmetric artificial neural network”, is one wherein supersymmetric weights are sought.
 Many machine learning algorithms are not empirically shown to be exactly biologically plausible, i.e. Deep Neural Network algorithms, have not been observed to occur in the brain, but regardless, such algorithms work in practice in machine learning. 
@@ -129,15 +124,9 @@ Likewise, regardless of Supersymmetry's elusiveness at the LHC, as seen above, i
 
 Remember, if you have good knowledge of [supermathematics](https://en.wikipedia.org/wiki/Supermathematics) and machine learning, you may pitch in for a discussion, by messaging me at jordanmicahbennett@gmail.com.
 
-Part L - Extras
+Part K - Extras
 ======
 
 I compiled a list of resources (beyond things cited throughout the papers) that may be helpful [here](https://github.com/JordanMicahBennett/Supermathematics-and-Artificial-General-Intelligence/blob/master/1.%20Extra%20list%20of%20helpful%20resources.md).
-
-
-
-Part M - Article Download
-======
-Here is this article in [pdf form](https://www.researchgate.net/publication/319523372_Supermathematics_and_Artificial_General_Intelligence).
 
 
