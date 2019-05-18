@@ -99,9 +99,9 @@ This means that machine learning researchers study what functions are best to tr
 
 ![alt text](https://i.imgur.com/NRA0CH3.png)
 
-Part I - Pseudocode for the “Supersymmetric Artificial Neural Network"
+Part I - Naive Archictecture for the “Supersymmetric Artificial Neural Network" 
 ======
-Following, is another view of “solution geometry” history, which may promote a clear way to view the reasoning behind the subsequent pseudocode sequence:
+Following, is another view of “solution geometry” history, which may promote a clear way to view the reasoning behind the subsequent naive architecture sequence:
 
 ![alt text](https://i.imgur.com/vbon07Z.png)
 
@@ -109,13 +109,13 @@ I call an “Edward Witten/String theory powered artificial neural network”, �
 
 Looking at the above progression of ‘solution geometries’; going from [`SO(n)`](https://en.wikipedia.org/wiki/Perceptron) representation to [`SU(n)`](https://arxiv.org/pdf/1612.05231.pdf) representation has guaranteed richer and richer representations in weight space of the artificial neural network, and hence better and better hypotheses were generatable. It is only then somewhat natural to look to [`SU(m|n)`](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27) representation, i.e. the **“Edward Witten/String theory powered artificial neural network” (“Supersymmetric Artificial Neural Network”)**.
 
-To construct an “Edward Witten/String theory powered artificial neural network”, it may be feasible to start with a [grassmann manifold artificial neural network](https://arxiv.org/pdf/1611.05742.pdf) then [generate ‘charts’](http://www.math.wisc.edu/~robbin/761dir/grassmann.pdf) until [scenarios occur](https://en.wikipedia.org/wiki/Supersymmetry) where the “Edward Witten/String theory powered artificial neural network” is achieved, in the following way:
+To construct an “Edward Witten/String theory powered artificial neural network”, it may be feasible to compose a system, which includes a [grassmann manifold artificial neural network](https://arxiv.org/pdf/1611.05742.pdf) then [generate ‘charts’](http://www.math.wisc.edu/~robbin/761dir/grassmann.pdf) until [scenarios occur](https://en.wikipedia.org/wiki/Supersymmetry) where the “Edward Witten/String theory powered artificial neural network” is perhaps achieved, in the following way:
 
-![alt text](https://i.imgur.com/dT5c9Rq.png)
+![alt text](https://i.imgur.com/Qz1tseV.png)
 
 Part J - Artificial neural network/symmetry group landscape visualization
 ===================
-![](https://i.imgur.com/6ikD2UZ.png)
+![](https://i.imgur.com/KdcuSUa.png)
 paper: https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis
 
 
